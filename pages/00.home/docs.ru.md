@@ -23,7 +23,7 @@ visible: false
 <a href="/admindoc" class="btn btn-lg btn-primary inline"><i class="fa fa-cogs"></i> Руководство администратора</a>
 <a href="/apps" class="btn btn-lg btn-success inline"><i class="fa fa-cubes"></i> Приложения</a>
 <a href="/community" class="btn btn-lg btn-primary" style="background: blueviolet;border-color: blueviolet;"><i class="fa fa-users"></i> Сообщество</a>
-<a href="/contribute" style="background: orange; border-color: orange;" class="btn btn-lg btn-error"><i class="fa fa-heart"></i> Почочь</a>
+<a href="/contribute" style="background: orange; border-color: orange;" class="btn btn-lg btn-error"><i class="fa fa-heart"></i> Помочь</a>
 
 [/center]
 
