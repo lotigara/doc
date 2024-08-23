@@ -14,16 +14,16 @@ visible: false
 
 Как будущий администратор вашего собственного сервера, перейдите к [Руководству администратора](/admindoc), чтобы узнать больше о самостоятельном хостинге, о том, как установить сервер YunoHost и ваши первые приложения.
 
-Вы можете ознакомиться с [каталогом приложений](/apps), чтобы просмотреть приложения, которые могут быть установлены на сервере (хотя вы также можете ознакомиться с ним непосредственно из своего интерфейса администратора!)
+Вы можете ознакомиться с [каталогом приложений](/apps), чтобы просмотреть приложения, которые могут быть установлены на сервере (однако вы также можете ознакомиться с ним непосредственно из своего интерфейса администратора!)
 
 [Сообщество](/community) здесь для вас, если вам нужна помощь: присоединяйтесь к нам в [чат](/chat_rooms) или свяжитесь с нами на [форуме](/community/forum)!
 
 [center]
 
-<a href="/admindoc" class="btn btn-lg btn-primary inline"><i class="fa fa-cogs"></i> Гайды для администраторов</a>
+<a href="/admindoc" class="btn btn-lg btn-primary inline"><i class="fa fa-cogs"></i> Руководство администратора</a>
 <a href="/apps" class="btn btn-lg btn-success inline"><i class="fa fa-cubes"></i> Приложения</a>
 <a href="/community" class="btn btn-lg btn-primary" style="background: blueviolet;border-color: blueviolet;"><i class="fa fa-users"></i> Сообщество</a>
-<a href="/contribute" style="background: orange; border-color: orange;" class="btn btn-lg btn-error"><i class="fa fa-heart"></i> Присоединиться</a>
+<a href="/contribute" style="background: orange; border-color: orange;" class="btn btn-lg btn-error"><i class="fa fa-heart"></i> Помочь</a>
 
 [/center]
 
